@@ -22,3 +22,6 @@
 [submodule "App/Trapture-serialmonitor"]
 	path = App/Trapture-serialmonitor
 	url = https://github.com/Rakshars/Trapture-serialmonitor
+[submodule "JetsonNano/Darknet/Trapture-training"]
+	path = JetsonNano/Darknet/Trapture-training
+	url = https://github.com/Rakshars/Trapture-training

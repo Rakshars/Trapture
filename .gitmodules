@@ -25,3 +25,6 @@
 [submodule "JetsonNano/Darknet/Trapture-training"]
 	path = JetsonNano/Darknet/Trapture-training
 	url = https://github.com/Rakshars/Trapture-training
+[submodule "JetsonNano/Utility/JetsonNano-videoPlayer"]
+	path = JetsonNano/Utility/JetsonNano-videoPlayer
+	url = https://github.com/Rakshars/JetsonNano-videoPlayer

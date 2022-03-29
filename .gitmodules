@@ -28,3 +28,6 @@
 [submodule "JetsonNano/Utility/JetsonNano-videoPlayer"]
 	path = JetsonNano/Utility/JetsonNano-videoPlayer
 	url = https://github.com/Rakshars/JetsonNano-videoPlayer
+[submodule "JetsonNano/JetsonNano-gpuGraphTX"]
+	path = JetsonNano/JetsonNano-gpuGraphTX
+	url = https://github.com/Rakshars/JetsonNano-gpuGraphTX

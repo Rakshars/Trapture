@@ -7,3 +7,6 @@
 [submodule "JetsonNano/Darknet/JetsonNano-darknet"]
 	path = JetsonNano/Darknet/JetsonNano-darknet
 	url = https://github.com/Rakshars/JetsonNano-darknet
+[submodule "JetsonNano/Darknet/Trapture-noDisplayDarknet"]
+	path = JetsonNano/Darknet/Trapture-noDisplayDarknet
+	url = https://github.com/Rakshars/Trapture-noDisplayDarknet

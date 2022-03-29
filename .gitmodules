@@ -13,3 +13,6 @@
 [submodule "JetsonNano/Darknet/Trapture-Aurko_Animal_Training"]
 	path = JetsonNano/Darknet/Trapture-Aurko_Animal_Training
 	url = https://github.com/Rakshars/Trapture-Aurko_Animal_Training
+[submodule "Website/Trapture-Website"]
+	path = Website/Trapture-Website
+	url = https://github.com/Rakshars/Trapture-Website

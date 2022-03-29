@@ -1,3 +1,6 @@
 [submodule "Dataset/AMITRAKSHAR"]
 	path = Dataset/AMITRAKSHAR
 	url = https://github.com/Rakshars/AMITRAKSHAR
+[submodule "RaspberryPi/piTrapture"]
+	path = RaspberryPi/piTrapture
+	url = https://github.com/Rakshars/piTrapture

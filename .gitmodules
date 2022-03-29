@@ -16,3 +16,6 @@
 [submodule "Website/Trapture-Website"]
 	path = Website/Trapture-Website
 	url = https://github.com/Rakshars/Trapture-Website
+[submodule "TrapturePrint/Trapture-trapturePrint"]
+	path = TrapturePrint/Trapture-trapturePrint
+	url = https://github.com/Rakshars/Trapture-trapturePrint

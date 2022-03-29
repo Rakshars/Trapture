@@ -31,3 +31,6 @@
 [submodule "JetsonNano/JetsonNano-gpuGraphTX"]
 	path = JetsonNano/JetsonNano-gpuGraphTX
 	url = https://github.com/Rakshars/JetsonNano-gpuGraphTX
+[submodule "JetsonNano/Utility/JetsonNano-gpuGraphTX"]
+	path = JetsonNano/Utility/JetsonNano-gpuGraphTX
+	url = https://github.com/Rakshars/JetsonNano-gpuGraphTX

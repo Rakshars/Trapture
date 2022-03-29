@@ -19,3 +19,6 @@
 [submodule "TrapturePrint/Trapture-trapturePrint"]
 	path = TrapturePrint/Trapture-trapturePrint
 	url = https://github.com/Rakshars/Trapture-trapturePrint
+[submodule "App/Trapture-serialmonitor"]
+	path = App/Trapture-serialmonitor
+	url = https://github.com/Rakshars/Trapture-serialmonitor

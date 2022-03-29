@@ -4,3 +4,6 @@
 [submodule "RaspberryPi/piTrapture"]
 	path = RaspberryPi/piTrapture
 	url = https://github.com/Rakshars/piTrapture
+[submodule "JetsonNano/Darknet/JetsonNano-darknet"]
+	path = JetsonNano/Darknet/JetsonNano-darknet
+	url = https://github.com/Rakshars/JetsonNano-darknet
